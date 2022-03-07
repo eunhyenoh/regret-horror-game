@@ -1,0 +1,2356 @@
+fileFormatVersion: 2
+guid: 119bbe5baec346b489f5dfd9a03cd457
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: finger_ani(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Z_Anatomy_Layers1_7:Mesh
+      parentName: finger_ani(Clone)
+      position: {x: 0.56868625, y: 0, z: -0.533092}
+      rotation: {x: 0.00000006657903, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: transform1
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface1
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface2
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface3
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface4
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface5
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface6
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface7
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface8
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface9
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface10
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface11
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface12
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface13
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface14
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface15
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface16
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface17
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface18
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface19
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface20
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface21
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface22
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface23
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface24
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface25
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface26
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface27
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface28
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface29
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface30
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface31
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface32
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface33
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface34
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface35
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface36
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface37
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface38
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface39
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface40
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface41
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface42
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface43
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface44
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface45
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface46
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface47
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface48
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface49
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface50
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface51
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface52
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface53
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface54
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface55
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface56
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface57
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface64
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface65
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface66
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface67
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface68
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface69
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface70
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface71
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface72
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface73
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface74
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface75
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface76
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface77
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface78
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface79
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface80
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface81
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface82
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface83
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface84
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface85
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface86
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface87
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface88
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface89
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface90
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface91
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface92
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface93
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface94
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface95
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface96
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface97
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface98
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface99
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface100
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface101
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface102
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface103
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface104
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface105
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface106
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface107
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface108
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface109
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface110
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface111
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface112
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface113
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface114
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface115
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface116
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface117
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface118
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface119
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface120
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface121
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface122
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface123
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface124
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface125
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface126
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface127
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface128
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface129
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface130
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface131
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface132
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface133
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface134
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface135
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface136
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface137
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface138
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface139
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface140
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface141
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface142
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface143
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface144
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface145
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface146
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface147
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface148
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface149
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface151
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface161
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface162
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface163
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface164
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface165
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface166
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface167
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface168
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface174
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface175
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface176
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface177
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface178
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface193
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface194
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface195
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface196
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface197
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface198
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface199
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface200
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface201
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface202
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface203
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface204
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface205
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface206
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface207
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface208
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface209
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface210
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface211
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface212
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface213
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface214
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface215
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface216
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface217
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface218
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface219
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface220
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface221
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface222
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface223
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface224
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface225
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface226
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface227
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface228
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface229
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface230
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface231
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface232
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface233
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface234
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface235
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface236
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface237
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface238
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface239
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface240
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface241
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface242
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface243
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface244
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface245
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface246
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface247
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface248
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface249
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface250
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface251
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface252
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface253
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface254
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface255
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface256
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface257
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface258
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface259
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface260
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface261
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface262
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface263
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface264
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface265
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface266
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface267
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface268
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface269
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface270
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface271
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface272
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface273
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface274
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface275
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface276
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface277
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface278
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface279
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface280
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface281
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface282
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface285
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface288
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface289
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface290
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface293
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface296
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface297
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface298
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface299
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface300
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface301
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface302
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface303
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface304
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface305
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface306
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface309
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface310
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface313
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface315
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface316
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface317
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface318
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface319
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface320
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface321
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface322
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface323
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface324
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface325
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface326
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface327
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface328
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface329
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface330
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface331
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface332
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface333
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface334
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface335
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface336
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface337
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface338
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface339
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface340
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface341
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface342
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface343
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface344
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface345
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface346
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface347
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface348
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface349
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface350
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface351
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface352
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface353
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface354
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface355
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface356
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface358
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface359
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface360
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface361
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface362
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface363
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface364
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface365
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface366
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface367
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface368
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface369
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface370
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface371
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface372
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface373
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface374
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface375
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface376
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface377
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface378
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface379
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface380
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface381
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface382
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface383
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface384
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface385
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface386
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface387
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface388
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface389
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface390
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface391
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface392
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface393
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface394
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface395
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface396
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface397
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface398
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface399
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface400
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface401
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface402
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface403
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface404
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface405
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface406
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface407
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface408
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface409
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface410
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface411
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface412
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface413
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface414
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface415
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface416
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface417
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface418
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface419
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface420
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface421
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface422
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface423
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface424
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface425
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface426
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface427
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface428
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface429
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface430
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface431
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface432
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface433
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface434
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface435
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface436
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface437
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface438
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface439
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface440
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface441
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface442
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface443
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface444
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface445
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface446
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface447
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface448
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface451
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface453
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface454
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface455
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface457
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface458
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface459
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.8686, y: -33.093643, z: 4.6925354}
+      rotation: {x: 2.200131e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface187
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface150
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86853, y: -33.092773, z: 4.6924744}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface152
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86853, y: -33.092773, z: 4.6924744}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface180
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface155
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface157
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface181
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface183
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface186
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface185
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface188
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface182
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface190
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface179
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface189
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface172
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface171
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface170
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface169
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface160
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface159
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface158
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface191
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface156
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface192
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface154
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface153
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface184
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: polySurface173
+      parentName: Z_Anatomy_Layers1_7:Mesh
+      position: {x: -56.86841, y: -33.094727, z: 4.69252}
+      rotation: {x: 5.8670164e-14, y: -0, z: -0, w: 1}
+      scale: {x: 3968.468, y: 3968.468, z: 3968.468}
+    - name: Bone001
+      parentName: finger_ani(Clone)
+      position: {x: 10.664086, y: 32.72317, z: 0.14328888}
+      rotation: {x: 0.38522238, y: 0.6084764, z: 0.43133828, w: 0.5434221}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000006}
+    - name: Bone002
+      parentName: Bone001
+      position: {x: -2.564413, y: 0, z: 0.00000030365572}
+      rotation: {x: -0.0019993186, y: -0.017409593, z: 0.05259739, w: 0.9984621}
+      scale: {x: 1.0000019, y: 1.0000002, z: 1.0000013}
+    - name: Bone003
+      parentName: Bone002
+      position: {x: -1.8395786, y: 0.0000038146973, z: 0.00000018551782}
+      rotation: {x: -0.00019546009, y: -0.0035765532, z: 0.027886989, w: 0.99960464}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: Bone004
+      parentName: Bone003
+      position: {x: -1.1841698, y: -0.000019073486, z: 0.00000010720146}
+      rotation: {x: 0.005208345, y: 0.021609996, z: -0.3125769, w: 0.9496323}
+      scale: {x: 1.0000011, y: 1.0000002, z: 1.0000004}
+    - name: Bone005
+      parentName: finger_ani(Clone)
+      position: {x: 11.09982, y: 32.825085, z: 0.34008238}
+      rotation: {x: 0.3775902, y: 0.622409, z: 0.4854733, w: 0.48409545}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Bone006
+      parentName: Bone005
+      position: {x: -2.704134, y: 0, z: -0.0000003348775}
+      rotation: {x: 0.0028092265, y: 0.027082294, z: -0.10171744, w: 0.9944407}
+      scale: {x: 1.0000002, y: 1.0000011, z: 1}
+    - name: Bone007
+      parentName: Bone006
+      position: {x: -1.5489464, y: 0.000025749207, z: 1.3500312e-13}
+      rotation: {x: 0.000000010477379, y: 0.000000026077032, z: -0.19259785, w: 0.98127776}
+      scale: {x: 0.9999998, y: 0.9999997, z: 1.0000002}
+    - name: Bone008
+      parentName: Bone007
+      position: {x: -0.8680496, y: 0.0000019073486, z: 0.000000002550287}
+      rotation: {x: -0.000000011191115, y: 0.000000024378059, z: 0.00000010430813, w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000005}
+    - name: Bone009
+      parentName: finger_ani(Clone)
+      position: {x: 10.151905, y: 32.664986, z: 0.23752922}
+      rotation: {x: 0.41411453, y: 0.57315683, z: 0.4141149, w: 0.57315725}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000002}
+    - name: Bone010
+      parentName: Bone009
+      position: {x: -2.3238144, y: 0.000008583069, z: 0.00000026098587}
+      rotation: {x: 0.0011683106, y: 0.009820521, z: -0.1180841, w: 0.9929544}
+      scale: {x: 1, y: 1.0000001, z: 1.0000008}
+    - name: Bone011
+      parentName: Bone010
+      position: {x: -1.73913, y: 0, z: -0.00000032422986}
+      rotation: {x: -0.000000028871002, y: -0.00000006519259, z: -0.10532447, w: 0.99443793}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000006}
+    - name: Bone012
+      parentName: Bone011
+      position: {x: -1.1669617, y: -0.0000038146973, z: -4.494738e-13}
+      rotation: {x: 0.0034084949, y: 0.0007301149, z: -0.17621268, w: 0.98434603}
+      scale: {x: 1.0000007, y: 0.9999997, z: 1.0000007}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
